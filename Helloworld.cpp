@@ -1,1 +1,1 @@
-cout<<"UCLA STINKS!"<<;
+cout<<"GO TROJANS!"<<;
